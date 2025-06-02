@@ -134,7 +134,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 <img src="https://github.com/user-attachments/assets/0431f03b-0465-4e0a-ad40-008c4b905a94" width="666">
 
-<img src="https://github.com/user-attachments/assets/05d16117-2866-4adc-8230-38e762df611f" width="900">
+<img src="https://github.com/user-attachments/assets/05d16117-2866-4adc-8230-38e762df611f" width="1000">
 
 
 
