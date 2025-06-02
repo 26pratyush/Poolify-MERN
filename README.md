@@ -118,23 +118,23 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-![image](https://github.com/user-attachments/assets/a5ce0228-7c93-48f9-acef-62f56b88dccc)
+<img src="https://github.com/user-attachments/assets/a5ce0228-7c93-48f9-acef-62f56b88dccc" width="666">
 
-![image](https://github.com/user-attachments/assets/610f2c20-2d4b-4519-87e9-54bfdb9cafb9)
+<img src="https://github.com/user-attachments/assets/610f2c20-2d4b-4519-87e9-54bfdb9cafb9" width="666">
 
-![image](https://github.com/user-attachments/assets/c9565b2b-3cb2-4200-806f-a54c8642b8b4)
+<img src="https://github.com/user-attachments/assets/c9565b2b-3cb2-4200-806f-a54c8642b8b4" width="1000">
 
-![image](https://github.com/user-attachments/assets/5436aa7d-2237-453b-b72e-2ddce9936b41)
+<img src="https://github.com/user-attachments/assets/5436aa7d-2237-453b-b72e-2ddce9936b41" width="666">
 
-![image](https://github.com/user-attachments/assets/a70d30b2-4478-4e03-8bdc-89fbc38a4240)
+<img src="https://github.com/user-attachments/assets/a70d30b2-4478-4e03-8bdc-89fbc38a4240" width="1000">
 
-![image](https://github.com/user-attachments/assets/e464ee8f-c1eb-4587-9751-dbf2f235a70b)
+<img src="https://github.com/user-attachments/assets/e464ee8f-c1eb-4587-9751-dbf2f235a70b" width="1000">
 
-![image](https://github.com/user-attachments/assets/774fb329-3bf3-415f-95e3-48641dbb0833)
+<img src="https://github.com/user-attachments/assets/774fb329-3bf3-415f-95e3-48641dbb0833" width="666">
 
-![image](https://github.com/user-attachments/assets/0431f03b-0465-4e0a-ad40-008c4b905a94)
+<img src="https://github.com/user-attachments/assets/0431f03b-0465-4e0a-ad40-008c4b905a94" width="666">
 
-![image](https://github.com/user-attachments/assets/05d16117-2866-4adc-8230-38e762df611f)
+<img src="https://github.com/user-attachments/assets/05d16117-2866-4adc-8230-38e762df611f" width="900">
 
 
 
